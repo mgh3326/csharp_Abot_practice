@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abot_practice", "Abot_practice\Abot_practice.csproj", "{9996CD48-E442-4010-8235-69075511CFE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9996CD48-E442-4010-8235-69075511CFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9996CD48-E442-4010-8235-69075511CFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9996CD48-E442-4010-8235-69075511CFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9996CD48-E442-4010-8235-69075511CFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B71BAB45-65D2-4A03-923D-9584C75F824A}
+	EndGlobalSection
+EndGlobal
